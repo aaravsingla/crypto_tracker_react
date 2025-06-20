@@ -5,7 +5,7 @@ A modern, responsive cryptocurrency tracking application built with React that p
 
 ## 🚀 Live Demo
 
-[**View Live Demo**](YOUR_LIVE_DEMO_LINK_HERE)
+[**View Live Demo**](https://lively-hotteok-42fe63.netlify.app/)
 
 ## 📋 Table of Contents
 
